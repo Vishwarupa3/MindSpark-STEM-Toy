@@ -1,1 +1,12 @@
+# Hardware Components
 
+| Component | Quantity | Purpose |
+|----------|----------|--------|
+| Arduino Nano / ESP32 | 1 | Main controller |
+| Push Buttons | 4 | User input |
+| LEDs (Colored) | 4 | Pattern display |
+| Piezo Buzzer | 1 | Audio feedback |
+| 20x4 LCD Display | 1 | Game information display |
+| Resistors (220Ω) | 4 | LED current limiting |
+| Breadboard | 1 | Circuit prototyping |
+| USB Cable | 1 | Power supply |
